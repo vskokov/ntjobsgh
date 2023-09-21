@@ -1,0 +1,22 @@
+- name: 'Stony Brook University'
+  url: 'https://apply.interfolio.com/130592'
+  descr: "Assistant Professor in Theoretical Nuclear Physics - funded jointly with DOE Topical Collaboration"
+  deadl: 'Deadline: Nov 18, 2023'
+  #year: '2024'
+  status: 'current'
+  slist:
+    - ... 
+  olist:
+    - ...
+
+
+- name: 'Argonne National Laboratory'
+  url: 'https://inspirehep.net/jobs/2172047'
+  descr: "Assistant Physicist in Nuclear Theory"
+  deadl: 'Deadline: Dec. 23, 2022'
+  year: '2023'
+  status: 'past'
+  slist:
+    - ... 
+  olist:
+    - ...
