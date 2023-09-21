@@ -5,7 +5,7 @@
   #year: '2024'
   status: 'current'
   slist:
-    - ... 
+    - ...
   olist:
     - ...
 
@@ -17,6 +17,19 @@
   year: '2023'
   status: 'past'
   slist:
-    - ... 
+    - '...'
   olist:
-    - ...
+    - '...'
+
+- name: 'The College of William & Mary'
+  url: 'https://inspirehep.net/jobs/2606406'
+  descr: 'Assistant Professor of Physics – supported by a DOE Topical Collaboration'
+  deadl: 'Deadline: Jan. 16, 2023'
+  year: '2023'
+  status: 'past'
+  slist:
+    - 'Andrew Hanlon'
+    - 'Andrew Jackura'
+    - 'Arkaitz Rodas'
+  olist:
+    - 'Andrew Jackura (accepted)'
