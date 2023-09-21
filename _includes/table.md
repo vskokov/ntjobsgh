@@ -28,6 +28,7 @@
 <h2><a href="{{ pos.url }}" target="_blank">{{ pos.name }}</a></h2>
 
 {{ pos.descr }}
+
 {{ pos.deadl }}
 
 
