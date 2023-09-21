@@ -27,9 +27,9 @@
 ---
 <h2><a href="{{ pos.url }}" target="_blank">{{ pos.name }}</a></h2>
 
-{{ pos.descr }}
+{{ pos.descr }}  
 
-{{ pos.deadl }}
+{{ pos.deadl }}  
 
 
 <div class="row">
