@@ -19,3 +19,5 @@ years:
 #### {{ year }}
 {% include table.md status='past' year=year %}
 {% endfor %}
+
+---
